@@ -1,2 +1,7 @@
-# demo-mision-plaza
-Demo web para Misión Plaza — diseñada por eterlab.
+# Misión Plaza
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
